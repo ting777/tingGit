@@ -1,0 +1,2 @@
+# tingGit
+mygGitTemp
